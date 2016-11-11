@@ -10,7 +10,7 @@
   social: 
     # - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
     # - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    # - {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "github", link: "https://github.com/sentenwin"}
     # - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
@@ -36,8 +36,9 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    # - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/110317160742141559479"}
     - {name: "github", link: "https://github.com/alluajay"}
+    - {name: "facebook", link: "https://www.facebook.com/allu.ajaykumar"}
 - 
   id: 3
   # name: "Ostap"
@@ -48,8 +49,9 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/103096827341923125312"}
+    - {name: "github", link: "https://github.com/seshankb"}
+    # - {name: "twitter", link: "https://twitter.com/p1f"}
     - {name: "site", link: "http://allaboutseshan.blogspot.com"}
 - 
   id: 4
@@ -61,7 +63,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    # - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+PrasanthP96"}
     - {name: "twitter", link: "https://twitter.com/prasanthp96"}
     - {name: "github", link: "https://github.com/prasanthp96"}
     - {name: "site", link: "http://prasanthp96.github.io/allaboutprasanth"}
@@ -89,8 +91,8 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    # - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    # - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+NareshKumargoogle"}
+    - {name: "facebook", link: "https://www.facebook.com/nareshkumar.nb.97"}
     - {name: "github", link: "https://github.com/nareshkumarnb"}
     - {name: "site", link: "http://nareshkumarnb.github.io/allaboutnaresh"}
 - 
@@ -103,8 +105,8 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    # - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    # - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/101190121822726723635"}
+    - {name: "facebook", link: "https://www.facebook.com/narendra.prasath.35"}
     - {name: "github", link: "https://github.com/narendraprasaths"}
     - {name: "site", link: "http://narendraprasaths.github.io/allaboutnaren"}
 - 
@@ -112,13 +114,13 @@
   # name: "Vitaliy"
   surname: "Mohamed Muzammil"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: mohamedmuzammil.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    # - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    # - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/112822989530223857586"}
+    - {name: "facebook", link: "https://www.facebook.com/gocoool786"}
     # - {name: "github", link: "https://github.com/zasadnyy"}
     # - {name: "site", link: "http://zasadnyy.com/"}
 - 
@@ -131,8 +133,8 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    # - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    # - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+AnirudhKarthik"}
+    - {name: "facebook", link: "https://www.facebook.com/anirudh.en"}
     # - {name: "github", link: "https://github.com/zasadnyy"}
     # - {name: "site", link: "http://zasadnyy.com/"}
 - 
@@ -145,7 +147,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    # - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    # - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "facebook", link: "https://www.facebook.com/andrew1397"}
     - {name: "github", link: "https://github.com/andrewpradeep"}
     - {name: "site", link: "https://andrewpradeep.github.io/allaboutme"}
