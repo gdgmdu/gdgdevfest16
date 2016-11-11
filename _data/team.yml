@@ -3,7 +3,7 @@
   # name: "Andal"
   surname: "Senthilkumar"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: senthilkumar.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -43,7 +43,7 @@
   # name: "Ostap"
   surname: "Seshan"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl: seshan.png
+  thumbnailUrl: seshan.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -126,7 +126,7 @@
   # name: "Vitaliy"
   surname: "Aniruth"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  thumbnailUrl: aniruth.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
