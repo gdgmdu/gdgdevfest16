@@ -2,7 +2,7 @@
   id: 0
   # name: "Andal"
   surname: "Senthilkumar"
-  title: "Sponsors and Speakers Manager"
+  title: "Event Organiser"
   thumbnailUrl: senthilkumar.jpg
   team: true
   ribbon: 
@@ -16,7 +16,7 @@
   id: 1
   # name: "Andal"
   surname: "Andal"
-  title: "Sponsors and Speakers Manager"
+  title: "Team Member"
   thumbnailUrl: andal.jpg
   team: true
   ribbon: 
@@ -43,7 +43,7 @@
   id: 3
   # name: "Ostap"
   surname: "Seshan"
-  title: "Sponsors and Speakers Manager"
+  title: "Team Member"
   thumbnailUrl: seshan.jpg
   team: true
   ribbon: 
@@ -57,7 +57,7 @@
   id: 4
   # name: "Vitaliy"
   surname: "Prasanth"
-  title: "Sponsors and Speakers Manager"
+  title: "Team Member"
   thumbnailUrl: prasanth.jpg
   team: true
   ribbon: 
@@ -85,7 +85,7 @@
   id: 6
   # name: "Vitaliy"
   surname: "Naresh Kumar"
-  title: "Sponsors and Speakers Manager"
+  title: "Team Member"
   thumbnailUrl: nareshkumar.jpg
   team: true
   ribbon: 
@@ -99,7 +99,7 @@
   id: 7
   # name: "Vitaliy"
   surname: "Narendra Prasath"
-  title: "Sponsors and Speakers Manager"
+  title: "Team Member"
   thumbnailUrl: narendraprasath.jpg
   team: true
   ribbon: 
@@ -113,7 +113,7 @@
   id: 8
   # name: "Vitaliy"
   surname: "Mohamed Muzammil"
-  title: "Sponsors and Speakers Manager"
+  title: "Team Member"
   thumbnailUrl: mohamedmuzammil.jpg
   team: true
   ribbon: 
@@ -127,7 +127,7 @@
   id: 9
   # name: "Vitaliy"
   surname: "Aniruth"
-  title: "Sponsors and Speakers Manager"
+  title: "Team Member"
   thumbnailUrl: aniruth.jpg
   team: true
   ribbon: 
@@ -141,7 +141,7 @@
   id: 10
   # name: "Vitaliy"
   surname: "Pradeep"
-  title: "Sponsors and Speakers Manager"
+  title: "Team Member"
   thumbnailUrl: pradeep.jpg
   team: true
   ribbon: 
