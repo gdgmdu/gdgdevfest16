@@ -30,7 +30,7 @@
   id: 2
   # name: "Ajay Kumar"
   surname: "Ajay Kumar"
-  title: "Designer and Web Developer"
+  title: "Team Member"
   thumbnailUrl: ajaykumar.jpg
   team: true
   ribbon: 
@@ -71,7 +71,7 @@
   id: 5
   # name: "Vitaliy"
   surname: "Matheswaaran"
-  title: "Linux Admin and Web Developer"
+  title: "Team Member"
   thumbnailUrl: matheswaaran.jpg
   team: true
   ribbon: 
