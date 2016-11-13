@@ -61,7 +61,7 @@ eventDate: "November, 2016"
 typeoutTextValues: '"", "November", "Madurai"'
 typeoutFallback: "November"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdKRa5xWG1NhpKaDZDtJNUUzz44APoLaxxQI-iv7lT6yrfIpg/viewform?c=0&w=1", text: "Request invitations here"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdKRa5xWG1NhpKaDZDtJNUUzz44APoLaxxQI-iv7lT6yrfIpg/viewform?c=0&w=1", text: "Register here"}
  # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
