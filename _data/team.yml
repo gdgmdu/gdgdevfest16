@@ -22,10 +22,10 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    # - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    # - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "google-plus", link: "https://plus.google.com/+AndalM"}
+    - {name: "twitter", link: "https://twitter.com/Andal_Divya"}
     # - {name: "github", link: "https://github.com/zasadnyy"}
-    # - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "facebook", link: "https://facebook.com/andal.divya"}
 - 
   id: 2
   # name: "Ajay Kumar"
