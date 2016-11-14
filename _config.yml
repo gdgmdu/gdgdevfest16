@@ -55,9 +55,9 @@ navigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "rough2.jpg"
 heroTitle: "GDG DevFest Madurai 2016"
-eventDate: "November, 2016"
+eventDate: "November 20, 2016"
 typeoutTextValues: '"", "November", "Madurai"'
 typeoutFallback: "November"
 heroButtons:
@@ -114,7 +114,7 @@ venueTitle: "Will be available soon"
 # venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "Thirumalai-Nayak-Palace-Madurai3.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfest16mdu"
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
