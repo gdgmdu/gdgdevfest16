@@ -135,8 +135,8 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+AnirudhKarthik"}
     - {name: "facebook", link: "https://www.facebook.com/anirudh.en"}
-    # - {name: "github", link: "https://github.com/zasadnyy"}
-    # - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "github", link: "https://github.com/AnirudhMurali"}
+    - {name: "site", link: "http://anirudhmurali.com/"}
 - 
   id: 10
   # name: "Vitaliy"
@@ -147,7 +147,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    # - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
     - {name: "facebook", link: "https://www.facebook.com/andrew1397"}
     - {name: "github", link: "https://github.com/andrewpradeep"}
     - {name: "site", link: "https://andrewpradeep.github.io/allaboutme"}
